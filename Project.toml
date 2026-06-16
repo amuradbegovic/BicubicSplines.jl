@@ -1,0 +1,4 @@
+name = "BicubicSplines"
+uuid = "2002e34d-a8f4-4a1f-ad31-768c4e97a8ee"
+version = "0.1.0"
+authors = ["Adnan Muradbegović <amuradbego1@etf.unsa.ba>", "Irhad Breščić <ibrescic1@etf.unsa.ba>"]
